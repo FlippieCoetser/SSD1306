@@ -1,5 +1,5 @@
 # SSD1306 TypeScript Library
-This TypeScript Library contains all the base mapping of all commands for use the below mentioned CMOS driver.  
+This TypeScript Library contains the mapping of all commands for the below mentioned CMOS driver.  
 
 ## SSD1306 CMOS OLED/PLED Driver
 SSD1306 is a sinlge-chip CMOS OLED/PLED driver with controller for organic / polymer light emitting diode dot-matrix graphic display system. It consists of 128 segments and 64 commons. This IC is design for Common Cathode type OLED panel.
