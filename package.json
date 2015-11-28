@@ -1,0 +1,25 @@
+{
+  "name": "ssd1306",
+  "version": "1.0.0",
+  "description": "TypeScript Library for CMOS OLED/PLED Driver",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlippieCoetser/SSD1306.git"
+  },
+  "keywords": [
+    "SSD1306"
+  ],
+  "author": "\"Flippie Coetser\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlippieCoetser/SSD1306/issues"
+  },
+  "homepage": "https://github.com/FlippieCoetser/SSD1306#readme"
+}
