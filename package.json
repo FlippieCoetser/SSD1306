@@ -1,6 +1,6 @@
 {
   "name": "ssd1306",
-  "version": "1.0.1",
+  "version": "1.0.2-0",
   "description": "TypeScript Library for CMOS OLED/PLED Driver",
   "main": "index.js",
   "directories": {
